@@ -1,0 +1,58 @@
+body{
+  background-color: rgb(244,248,249);
+  font-family: Helvetica;
+  line-height: 0;
+}
+.format{
+  background-color: RGB(255,255,255);
+  border-color: rgb(225,232,237);
+  border-width: 450px, 900px;
+  border-style: solid;
+  margin: 25px;
+  padding: 75px;
+  border-radius: 10px;
+}
+.profile{
+  float:left;
+}
+.account{
+  display: inline-block;
+}
+.logo{
+  font-size: 60px;
+  color: RGB(0,0,0);
+  font-weight: bold;
+}
+.user{
+  font-size:35px;
+  color: RGB(104,109,129);
+}
+.follow{
+ float:right;
+ font-size: 55px;
+ font-style: bold;
+ color: rgb(85, 172, 238);
+ border-width: 90px, 100px;
+ padding: 20px;
+ border-style: solid;
+ border-color: rgb(85, 172, 238);
+ border-radius: 10px;
+}
+.first-tweet{
+  font-size: 60px;
+  color: RGB(0,0,0);
+}
+.date{
+  font-size: 35px;
+  color: RGB(101,116,127);
+}
+.image-two{
+  font-size: 60px;
+  color: RGB(105,120,130);
+  margin-left: 50px;
+}
+.image-three{
+  font-size: 60px;
+  color: RGB(105,120,130);
+  margin-left: 50px;
+}
